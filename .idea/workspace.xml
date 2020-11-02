@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f74bb50-9688-4af5-a95d-e86acd2448ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XWJfE4NjEoq16vFwxq7XVG9va3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pos/trans-demos" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pos/trans-demos" />
+      <recent name="$PROJECT_DIR$/pos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pos/trans-demos" />
+      <recent name="$PROJECT_DIR$/batch-build" />
+      <recent name="$PROJECT_DIR$/pos/trans-demos/trans-configs" />
+      <recent name="$PROJECT_DIR$/pos" />
+      <recent name="$PROJECT_DIR$/trans-demos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.select_demo">
+    <configuration name="select_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-demos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db-demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db-demos/select_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trans_add_org_scope_2020-06-10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-demos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pos/trans-demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pos/trans-demos/trans_add_org_scope_2020-06-10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trans_add_organization_license_2020-05-28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-demos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pos/trans-demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pos/trans-demos/trans_add_organization_license_2020-05-28.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trans_add_paramter_2020-06-16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-demos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pos/trans-demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pos/trans-demos/trans_add_paramter_2020-06-16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trans_add_paramter_2020-06-19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-demos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pos/trans-demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pos/trans-demos/trans_add_paramter_2020-06-19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.select_demo" />
+        <item itemvalue="Python.trans_add_paramter_2020-06-19" />
+        <item itemvalue="Python.trans_add_paramter_2020-06-16" />
+        <item itemvalue="Python.trans_add_org_scope_2020-06-10" />
+        <item itemvalue="Python.trans_add_organization_license_2020-05-28" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f74bb50-9688-4af5-a95d-e86acd2448ea" name="Default Changelist" comment="" />
+      <created>1581156017762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581156017762</updated>
+      <workItem from="1581156074774" duration="855000" />
+      <workItem from="1581225503157" duration="879000" />
+      <workItem from="1581296020059" duration="1656000" />
+      <workItem from="1583390907839" duration="8000" />
+      <workItem from="1583390922547" duration="261000" />
+      <workItem from="1583399467121" duration="24000" />
+      <workItem from="1583399515592" duration="323000" />
+      <workItem from="1583407693561" duration="14000" />
+      <workItem from="1583407743590" duration="144000" />
+      <workItem from="1583497331740" duration="3414000" />
+      <workItem from="1583592770214" duration="521000" />
+      <workItem from="1583629208507" duration="915000" />
+      <workItem from="1583821751817" duration="5308000" />
+      <workItem from="1584068908369" duration="5424000" />
+      <workItem from="1584596941082" duration="3648000" />
+      <workItem from="1584960669721" duration="416000" />
+      <workItem from="1584971914875" duration="469000" />
+      <workItem from="1585009932881" duration="11371000" />
+      <workItem from="1585312192892" duration="1906000" />
+      <workItem from="1585391499486" duration="2232000" />
+      <workItem from="1585450910041" duration="2776000" />
+      <workItem from="1585751088370" duration="539000" />
+      <workItem from="1585795506248" duration="17168000" />
+      <workItem from="1586012256268" duration="686000" />
+      <workItem from="1586072941465" duration="3155000" />
+      <workItem from="1586137636632" duration="3701000" />
+      <workItem from="1586222285176" duration="3677000" />
+      <workItem from="1586500384006" duration="4000" />
+      <workItem from="1586500398068" duration="8115000" />
+      <workItem from="1587008328187" duration="2054000" />
+      <workItem from="1587885268359" duration="13436000" />
+      <workItem from="1589272657378" duration="6172000" />
+      <workItem from="1589868821490" duration="7000" />
+      <workItem from="1589969847590" duration="921000" />
+      <workItem from="1590548846394" duration="999000" />
+      <workItem from="1591095593490" duration="204000" />
+      <workItem from="1591367600647" duration="247000" />
+      <workItem from="1591400949286" duration="181000" />
+      <workItem from="1591451512981" duration="222000" />
+      <workItem from="1591517016617" duration="404000" />
+      <workItem from="1591615338734" duration="4126000" />
+      <workItem from="1591972621985" duration="219000" />
+      <workItem from="1592099451168" duration="143000" />
+      <workItem from="1592296994880" duration="1995000" />
+      <workItem from="1592706445940" duration="182000" />
+      <workItem from="1592791267189" duration="464000" />
+      <workItem from="1593251314740" duration="220000" />
+      <workItem from="1593528811718" duration="202000" />
+      <workItem from="1593698543438" duration="156000" />
+      <workItem from="1593858889557" duration="2000" />
+      <workItem from="1593913862814" duration="211000" />
+      <workItem from="1594086749108" duration="391000" />
+      <workItem from="1594138688775" duration="271000" />
+      <workItem from="1594297109754" duration="92000" />
+      <workItem from="1594451978272" duration="183000" />
+      <workItem from="1594911848827" duration="205000" />
+      <workItem from="1594971024620" duration="649000" />
+      <workItem from="1595491660734" duration="727000" />
+      <workItem from="1604311731864" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1639" height="515" key="GridCell.Tab.0.bottom" timestamp="1604311885428">
+      <screen x="0" y="23" width="1887" height="1057" />
+    </state>
+    <state width="1639" height="515" key="GridCell.Tab.0.bottom/0.23.1887.1057@0.23.1887.1057" timestamp="1604311885428" />
+    <state width="1639" height="515" key="GridCell.Tab.0.center" timestamp="1604311885427">
+      <screen x="0" y="23" width="1887" height="1057" />
+    </state>
+    <state width="1639" height="515" key="GridCell.Tab.0.center/0.23.1887.1057@0.23.1887.1057" timestamp="1604311885427" />
+    <state width="1639" height="515" key="GridCell.Tab.0.left" timestamp="1604311885427">
+      <screen x="0" y="23" width="1887" height="1057" />
+    </state>
+    <state width="1639" height="515" key="GridCell.Tab.0.left/0.23.1887.1057@0.23.1887.1057" timestamp="1604311885427" />
+    <state width="1639" height="515" key="GridCell.Tab.0.right" timestamp="1604311885428">
+      <screen x="0" y="23" width="1887" height="1057" />
+    </state>
+    <state width="1639" height="515" key="GridCell.Tab.0.right/0.23.1887.1057@0.23.1887.1057" timestamp="1604311885428" />
+    <state width="1639" height="515" key="GridCell.Tab.1.bottom" timestamp="1604311885430">
+      <screen x="0" y="23" width="1887" height="1057" />
+    </state>
+    <state width="1639" height="515" key="GridCell.Tab.1.bottom/0.23.1887.1057@0.23.1887.1057" timestamp="1604311885430" />
+    <state width="1639" height="515" key="GridCell.Tab.1.center" timestamp="1604311885429">
+      <screen x="0" y="23" width="1887" height="1057" />
+    </state>
+    <state width="1639" height="515" key="GridCell.Tab.1.center/0.23.1887.1057@0.23.1887.1057" timestamp="1604311885429" />
+    <state width="1639" height="515" key="GridCell.Tab.1.left" timestamp="1604311885429">
+      <screen x="0" y="23" width="1887" height="1057" />
+    </state>
+    <state width="1639" height="515" key="GridCell.Tab.1.left/0.23.1887.1057@0.23.1887.1057" timestamp="1604311885429" />
+    <state width="1639" height="515" key="GridCell.Tab.1.right" timestamp="1604311885430">
+      <screen x="0" y="23" width="1887" height="1057" />
+    </state>
+    <state width="1639" height="515" key="GridCell.Tab.1.right/0.23.1887.1057@0.23.1887.1057" timestamp="1604311885430" />
+    <state x="554" y="167" key="SettingsEditor" timestamp="1604311768250">
+      <screen x="0" y="23" width="1887" height="1057" />
+    </state>
+    <state x="554" y="167" key="SettingsEditor/0.23.1887.1057@0.23.1887.1057" timestamp="1604311768250" />
+    <state x="1086" y="303" key="Vcs.Push.Dialog.v2" timestamp="1604312115371">
+      <screen x="0" y="23" width="1886" height="1057" />
+    </state>
+    <state x="1086" y="303" key="Vcs.Push.Dialog.v2/0.23.1886.1057@0.23.1886.1057" timestamp="1604312115371" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/http_request$http1.coverage" NAME="http1 Coverage Results" MODIFIED="1581233406155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$exception_test.coverage" NAME="exception-test Coverage Results" MODIFIED="1583592983832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$range_test.coverage" NAME="range-test Coverage Results" MODIFIED="1583506128139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_paramters_0506.coverage" NAME="trans_add_paramters_0506 Coverage Results" MODIFIED="1588760795347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_paramters_0512.coverage" NAME="trans_add_paramters_0512 Coverage Results" MODIFIED="1589251369061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_paramter_2020_06_16.coverage" NAME="trans_add_paramter_2020-06-16 Coverage Results" MODIFIED="1592297300230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$map_test.coverage" NAME="map-test Coverage Results" MODIFIED="1583506503041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$ojks.coverage" NAME="ojks Coverage Results" MODIFIED="1589970408165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/batch-build" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_generic_name_record__1_.coverage" NAME="trans_add_generic_name_record (1) Coverage Results" MODIFIED="1585903721923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_paramter_2020_06_19.coverage" NAME="trans_add_paramter_2020-06-19 Coverage Results" MODIFIED="1592537364805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_generic_name_record.coverage" NAME="trans_add_generic_name_record Coverage Results" MODIFIED="1584679899710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$batch_insert.coverage" NAME="batch_insert Coverage Results" MODIFIED="1585829437094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_collection_methods.coverage" NAME="trans_add_collection_methods Coverage Results" MODIFIED="1586919683573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_paramters_2020_05_27.coverage" NAME="trans_add_paramters_2020-05-27 Coverage Results" MODIFIED="1590549737826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$NetStatus.coverage" NAME="NetStatus Coverage Results" MODIFIED="1583913373691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_pos_version.coverage" NAME="trans_add_pos_version Coverage Results" MODIFIED="1585030559298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$datasource_test.coverage" NAME="datasource_test Coverage Results" MODIFIED="1586013168859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$select1.coverage" NAME="select1 Coverage Results" MODIFIED="1581342857483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_print_ticket.coverage" NAME="trans_add_print_ticket Coverage Results" MODIFIED="1584683792536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_setting_tax.coverage" NAME="trans_add_setting_tax Coverage Results" MODIFIED="1586672108154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_org_scope_2020_06_10.coverage" NAME="trans_add_org_scope_2020-06-10 Coverage Results" MODIFIED="1591772293973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_prescription_0427.coverage" NAME="trans_add_prescription_0427 Coverage Results" MODIFIED="1587994607945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$select_demo.coverage" NAME="select_demo Coverage Results" MODIFIED="1604311867011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_conf_add.coverage" NAME="trans-conf-add-worker-shift Coverage Results" MODIFIED="1583830452033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$clean_trans_data.coverage" NAME="clean_trans_data Coverage Results" MODIFIED="1586239343175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_handle_script.coverage" NAME="trans_add_handle_script Coverage Results" MODIFIED="1587994531261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_worker_shift.coverage" NAME="trans-add-worker-shift Coverage Results" MODIFIED="1586844832810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+    <SUITE FILE_PATH="coverage/py_demos$trans_add_organization_license_2020_05_28.coverage" NAME="trans_add_organization_license_2020-05-28 Coverage Results" MODIFIED="1591626249861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pos/trans-demos" />
+  </component>
+</project>

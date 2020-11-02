@@ -1,0 +1,67 @@
+truncate t_ware_unite;
+truncate t_ware_unite_general_name;
+truncate t_ware_unite_single_product;
+
+truncate t_promotion_base;
+truncate t_promotion_adjustprice;
+truncate t_promotion_excepromotion_detail;
+truncate t_promotion_excessive;
+truncate t_promotion_fillminuspresent;
+truncate t_promotion_fillminuspresent_demand;
+truncate t_promotion_fillminuspresent_gift;
+truncate t_promotion_fillminuspresent_relation;
+truncate t_promotion_member_demand;
+truncate t_promotion_order_record;
+truncate t_promotion_organization_demand;
+truncate t_promotion_packoneprice;
+truncate t_promotion_rule_conflict;
+truncate t_promotion_ware_demand;
+truncate t_promotion_ware_exclude;
+truncate t_promotion_ware_line_demand;
+truncate t_promotion_ware_record;
+truncate t_promotion_ware_stock;
+
+truncate t_trans_down_conf;
+truncate t_trans_down_log;
+
+truncate t_basic_setting_production_cp;
+
+truncate t_price_group_busi;
+truncate t_price_group;
+truncate t_price_group_ware_detail;
+
+truncate t_stock_a;
+truncate t_stock_b;
+truncate t_stock_c;
+truncate t_stock_d;
+truncate t_stock_stall;
+
+truncate t_ware_company_base_info;
+
+truncate t_ware_group_base_info;
+
+truncate t_basic_setting_ware_licence_record;
+truncate t_ware_licence_relation;
+
+truncate t_org_user_org;
+truncate t_org_user_base;
+
+truncate  t_ware_special_detail;
+truncate t_ware_special;
+
+truncate t_order_info;
+truncate t_order_detail;
+
+truncate t_order_outbound;
+truncate t_order_outbound_detail;
+
+truncate t_basic_setting_work_shift;
+truncate t_basic_setting_work_shift_business_relation;
+
+truncate t_trans_up_log;
+
+truncate t_ware_repulsion;
+truncate t_ware_repulsion_by_ware;
+truncate t_ware_repulsion_by_class;
+
+truncate t_basic_setting_tax_rate_record;
