@@ -1,0 +1,97 @@
+# http接口测试框架配置信息
+#-----------------------------------------------------------------
+# 测试中台登录
+test_login:
+  environment: 测试环境
+  address: http://test.hcloud.hydee.cn/gateway
+  company: 100121539
+  login:
+    userAccount: M100121539001
+    userPass: 888888
+
+# POS测试环境登录
+pos_login:
+  environment: POS测试环境
+  address: http://192.168.10.34:1088
+  business: 100120653
+  pay_type: ["X003","Y003","Y005","Y004","Y008"]
+  pay_var: [payOne,payTwo,payThree,payFour,payFive]
+  login:
+    userAccount: '500414100426'
+    userPass: admin123
+
+# 测试数据库连接
+test_db:
+  host: 192.168.10.34
+  port: 3306
+  user: h3_bu_dev_read
+  password: PG3xx6PBBciv
+  charset: utf8
+#-----------------------------------------------------------------
+# 生产中台登录
+pro_login:
+  environment: 生产环境
+  address: https://haidianyun.com/gateway
+  company: 100120512
+  login:
+    userAccount: TYLD500414
+    userPass: 888888
+
+# POS本地生产环境登录
+pos_pro_login:
+  environment: 本地客户端
+  address: http://localhost:1088
+  business: 100120673
+  pay_type: ["X003"]
+  pay_var: [payOne,payTwo,payThree,payFour,payFive]
+  login:
+    userAccount: 'CS100000100015'
+    userPass: 8c2a3dc4
+
+# 生产数据库连接
+pro_db:
+  host: 172.30.0.156
+  port: 4000
+  user: liudawei
+  password: Y7iYOU_Ns9jACrjqc
+  charset: utf8
+#-----------------------------------------------------------------
+#演示环境中台登录
+uat_login:
+  environment: 演示环境
+  versionCode: v1.4.5
+  address: http://h3.hydee.cn/gateway
+  company: 10002
+  login:
+    userAccount: 1003
+    userPass: 111111
+
+#演示环境数据库连接
+uat_db:
+  host: 172.16.0.222
+  port: 3306
+  user: h3_199_read
+  password: hydee_hcloud@2020
+  charset: utf8
+#-----------------------------------------------------------------
+# 并发测试配置
+thread:
+  thread_num: 3
+  work_num: 1
+
+
+#mail:
+##发送邮件信息
+#  smtp_server = smtp.163.com
+#  sender = denghao@hydee.cn
+#  receiver = denghao@hydee.cn
+#  username = denghao@hydee.cn
+#  password = 123456
+#  host = 172.16.0.222
+
+#;断言：
+#;assert xx：判断xx为真
+#;assert not xx：判断xx不为真
+#;assert a in b：判断b包含a
+#;assert a == b：判断a等于b
+#;assert a !=b：判断a不等于b
