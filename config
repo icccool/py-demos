@@ -28,8 +28,17 @@ test_db:
   password: PG3xx6PBBciv
   charset: utf8
 #-----------------------------------------------------------------
-# 生产中台登录
+# 生产中台登录 - 力东
 pro_login:
+  environment: 生产环境
+  address: https://haidianyun.com/gateway
+  company: 100120512
+  login:
+    userAccount: TYLD500414
+    userPass: 888888
+
+# 生产中台登录 - 绿森林
+pro_login2:
   environment: 生产环境
   address: https://haidianyun.com/gateway
   company: 100120512
