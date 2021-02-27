@@ -1,6 +1,12 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 import pymysql
+
+# ==========================================================
+# mysql连接
+# ==========================================================
+
+
 db = pymysql.connect("127.0.0.1", "root", "wjb#", "h3_pos_100120587", charset='utf8')
 # 使用cursor()方法获取操作游标
 cursor = db.cursor()

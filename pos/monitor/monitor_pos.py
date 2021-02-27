@@ -13,6 +13,10 @@ import re
 from itertools import islice
 import utils.ReadConfig as ReadConfig
 
+# ==========================================================
+# POS监控是否有异常, 然后发送消息提示
+# ==========================================================
+
 content_type = "application/json;charset=UTF-8"
 headers = {}
 headers["Content-Type"] = content_type
@@ -51,8 +55,8 @@ def send_to_wx(content):
         "msgtype": "text",
         "agentid": 1,
         "text": {
-            "content": content,
-            "mentioned_mobile_list": ["18616006011"]
+            "content": content
+            # "mentioned_mobile_list": ["18616006011"]
         },
         "safe": 0,
         "enable_id_trans": 0,
